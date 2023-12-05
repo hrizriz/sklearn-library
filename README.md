@@ -1,8 +1,9 @@
 # Scikit-learn
 
-Scikit-learn atau yang umum disebut sklearn, merupakan library Python yang menyediakan berbagai alat efisien untuk machine learning dan pemodelan statistik. Library ini mendukung machine learning 'Supervised' dan 'Unsupervised'. Menyediakan berbagai algoritma untuk klasifikasi, regresi, pengelompokan dan reduksi dimensi
+Scikit-learn, commonly referred to as sklearn, is a Python library that provides various efficient tools for machine learning and statistical modeling. This library supports both ‘Supervised’ and ‘Unsupervised’ machine learning. It provides various algorithms for classification, regression, clustering, and dimensionality reduction.
 
-## Dalam repository ini terdapat beberapa contoh latihan dalam pengaplikasian library SKLearn
+## In this repository, there are several exercise examples in applying the SKLearn library
+
 - [SKLearn Train Test Split](https://github.com/hrizriz/sklearn-library/blob/main/sklearn_train_test_split.ipynb)
 
 - [SKLearn Cross Validation Split](https://github.com/hrizriz/sklearn-library/blob/main/sklearn_cross_validation_split.ipynb)
